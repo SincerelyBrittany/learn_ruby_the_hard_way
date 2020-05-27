@@ -1,3 +1,4 @@
+#To run this program run 'ruby Exercise_1_10/Exercise_2.rb'
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by Ruby.
 
